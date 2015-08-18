@@ -1,2 +1,2 @@
-# havester-of-sorrow
+# harvester-of-sorrow
 A Youtube Eating Machine
